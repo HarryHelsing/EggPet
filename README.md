@@ -5,7 +5,7 @@ A little game I made to practice some Rust fundamentals. Hatch an egg and look a
 Download and Run EggPet.exe
 
 ## Play on Linux
-Download.
-Open terminal.
+Download eggpet
+Open terminal
 Go to directory with eggpet downloaded. (using cd command)
 run ./eggpet
